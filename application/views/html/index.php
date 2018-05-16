@@ -1519,7 +1519,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
 
 		 
 </main>
-<?php include("footer.php");?>
+
 
 <script>
 $(document).ready(function(){

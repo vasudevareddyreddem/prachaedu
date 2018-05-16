@@ -13,6 +13,7 @@
 	
     <!-- Bootstrap core CSS -->
     <link href="<?php echo base_url(); ?>assets/vendor/css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?php echo base_url(); ?>assets/vendor/css/bootstrapValidator.min.css" rel="stylesheet">
 	
     <!-- Material Design Bootstrap -->
     <link href="<?php echo base_url(); ?>assets/vendor/css/mdb.min.css" rel="stylesheet">
@@ -36,19 +37,19 @@
         </button>
 		
 		
-        <div class="collapse navbar-collapse float-right smooth-scroll" id="navbarSupportedContent">
+        <div class="collapse navbar-collapse float-right " id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto pos-nav ">
               
-				<li class="nav-item active">
+				<li class="nav-item active smooth-scroll">
                     <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item smooth-scroll">
                     <a class="nav-link" href="#about-us">About Us </a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item smooth-scroll">
                     <a class="nav-link">Feedback</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item smooth-scroll">
                     <a class="nav-link" href="#contact-us">Contact us</a>
                 </li>  
 				<li class="nav-item">
