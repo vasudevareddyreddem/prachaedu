@@ -91,13 +91,13 @@
    
 	
     <!-- Bootstrap tooltips -->
-    <script type="text/javascript" src="<?php echo base_url();?>assets/vendor/js/popper.min.js"></script>
+    <script type="text/javascript" src="js/popper.min.js"></script>
     <!-- Bootstrap core JavaScript -->
-    <script type="text/javascript" src="<?php echo base_url();?>assets/vendor/js/bootstrap.min.js"></script>
-     <script type="text/javascript" src="<?php echo base_url();?>assets/vendor/js/images-grid.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+     <script type="text/javascript" src="js/images-grid.js"></script>
     <!-- MDB core JavaScript -->
-    <script type="text/javascript" src="<?php echo base_url();?>assets/vendor/js/mdb.min.js"></script>
-    <script type="text/javascript" src="<?php echo base_url();?>assets/vendor/js/smooth-scroll.js"></script>
+    <script type="text/javascript" src="js/mdb.min.js"></script>
+    <script type="text/javascript" src="js/smooth-scroll.js"></script>
    
 </body>
 
