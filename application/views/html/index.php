@@ -441,7 +441,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                         <div class="row mart35 text-center" style="visibility: visible;">
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/Centralized.png" alt="Centralized access to information">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/Centralized.png" alt="Centralized access to information">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -449,7 +449,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/billing.png" alt="Effective billing & fee collection">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/billing.png" alt="Effective billing & fee collection">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -458,7 +458,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/Parent.png" alt="Improved Parent response">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/Parent.png" alt="Improved Parent response">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -466,7 +466,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/customer-centric-approach.png" alt="Customer Centric Approach">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/customer-centric-approach.png" alt="Customer Centric Approach">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -474,7 +474,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/integrated-workflow.png" alt="Integrated workflow">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/integrated-workflow.png" alt="Integrated workflow">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -488,7 +488,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
 
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/database.png" alt="Secured database">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/database.png" alt="Secured database">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -496,7 +496,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/reduced.png" alt="Reduced Operating & Inventory costs">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/reduced.png" alt="Reduced Operating & Inventory costs">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -505,7 +505,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/graphical.png" alt="Graphical data representation">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/graphical.png" alt="Graphical data representation">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -513,7 +513,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/student-record.png" alt="Cloud storage of Students records">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/student-record.png" alt="Cloud storage of Students records">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -522,7 +522,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/cost-revenue.png" alt="Reports on cost revenue, discounts, dataflow etc.
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/cost-revenue.png" alt="Reports on cost revenue, discounts, dataflow etc.
 ">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
@@ -545,7 +545,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
 
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/affordable-pricing.png" alt="Affordable pricing">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/affordable-pricing.png" alt="Affordable pricing">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -553,7 +553,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/email-feature.png" alt="Auto SMS / email feature">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/email-feature.png" alt="Auto SMS / email feature">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -561,7 +561,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/requirements.png" alt="Customization based on level requirements">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/requirements.png" alt="Customization based on level requirements">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -569,7 +569,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/scalability.png" alt="Open ended adaptability & scalability">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/scalability.png" alt="Open ended adaptability & scalability">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -577,7 +577,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/unlimited-student.png" alt="Unlimited student access">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/unlimited-student.png" alt="Unlimited student access">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -593,7 +593,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                         <div class="row mart35 text-center" style="visibility: visible;">
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/import.png" alt="Export / Import Reports">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/import.png" alt="Export / Import Reports">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -601,7 +601,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/payroll.png" alt="Finance & Payroll Management">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/payroll.png" alt="Finance & Payroll Management">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -609,7 +609,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/safe-and-secure.png" alt="Safe & Secure">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/safe-and-secure.png" alt="Safe & Secure">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -617,7 +617,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/redundancy.png" alt="No Redundancy Of Data Entry">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/redundancy.png" alt="No Redundancy Of Data Entry">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -625,7 +625,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/privacy.png" alt="Privacy">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/privacy.png" alt="Privacy">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -646,7 +646,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
 
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/secured-database.png" alt="Individual Secured Database">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/secured-database.png" alt="Individual Secured Database">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -654,7 +654,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/store-control.png" alt="Inventory & Store Control">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/store-control.png" alt="Inventory & Store Control">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -662,7 +662,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/statistics.png" alt="Customized Reports With Statistics">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/statistics.png" alt="Customized Reports With Statistics">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -670,7 +670,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/activities.png" alt="Minimization Of Redundant Activities">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/activities.png" alt="Minimization Of Redundant Activities">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -678,7 +678,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/parameters.png" alt="Instant View Of MIS Report On Different Parameters">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/parameters.png" alt="Instant View Of MIS Report On Different Parameters">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -691,7 +691,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
 
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/administrative.png" alt="Single Point Of Integration & Control From Academics To Administrative.">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/administrative.png" alt="Single Point Of Integration & Control From Academics To Administrative.">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -699,7 +699,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/generate-student.png" alt="Generate Student Reports">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/generate-student.png" alt="Generate Student Reports">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -707,7 +707,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/vital-information.png" alt="Access To Vital Information">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/vital-information.png" alt="Access To Vital Information">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -715,7 +715,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/planning.png" alt="Easy Handling To Class Schedules, Time Table And Question Paper Planning.">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/planning.png" alt="Easy Handling To Class Schedules, Time Table And Question Paper Planning.">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -723,7 +723,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-md-25-p">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/many-more.png" alt="And Many More">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/many-more.png" alt="And Many More">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -762,7 +762,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                         <div class="row mart35 text-center" style="visibility: visible;">
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/Centralized.png" alt="Centralized access to information">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/Centralized.png" alt="Centralized access to information">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -770,7 +770,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/billing.png" alt="Effective billing & fee collection">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/billing.png" alt="Effective billing & fee collection">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -779,7 +779,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/Parent.png" alt="Improved Parent response">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/Parent.png" alt="Improved Parent response">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -787,7 +787,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/customer-centric-approach.png" alt="Customer Centric Approach">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/customer-centric-approach.png" alt="Customer Centric Approach">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -795,7 +795,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/integrated-workflow.png" alt="Integrated workflow">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/integrated-workflow.png" alt="Integrated workflow">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -812,7 +812,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
 
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/database.png" alt="Secured database">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/database.png" alt="Secured database">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -820,7 +820,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/reduced.png" alt="Reduced Operating & Inventory costs">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/reduced.png" alt="Reduced Operating & Inventory costs">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -829,7 +829,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/graphical.png" alt="Graphical data representation">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/graphical.png" alt="Graphical data representation">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -837,7 +837,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/student-record.png" alt="Cloud storage of Students records">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/student-record.png" alt="Cloud storage of Students records">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -846,7 +846,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/cost-revenue.png" alt="Reports on cost revenue, discounts, dataflow etc.
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/cost-revenue.png" alt="Reports on cost revenue, discounts, dataflow etc.
 ">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
@@ -864,7 +864,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
 
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/affordable-pricing.png" alt="Affordable pricing">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/affordable-pricing.png" alt="Affordable pricing">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -872,7 +872,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/email-feature.png" alt="Auto SMS / email feature">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/email-feature.png" alt="Auto SMS / email feature">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -880,7 +880,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/requirements.png" alt="Customization based on level requirements">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/requirements.png" alt="Customization based on level requirements">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -888,7 +888,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/scalability.png" alt="Open ended adaptability & scalability">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/scalability.png" alt="Open ended adaptability & scalability">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -896,7 +896,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/unlimited-student.png" alt="Unlimited student access">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/unlimited-student.png" alt="Unlimited student access">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -912,7 +912,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                         <div class="row mart35 text-center" style="visibility: visible;">
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/import.png" alt="Export / Import Reports">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/import.png" alt="Export / Import Reports">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -920,7 +920,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/payroll.png" alt="Finance & Payroll Management">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/payroll.png" alt="Finance & Payroll Management">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -928,7 +928,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/safe-and-secure.png" alt="Safe & Secure">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/safe-and-secure.png" alt="Safe & Secure">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -936,7 +936,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/redundancy.png" alt="No Redundancy Of Data Entry">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/redundancy.png" alt="No Redundancy Of Data Entry">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -944,7 +944,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/privacy.png" alt="Privacy">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/privacy.png" alt="Privacy">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -961,7 +961,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
 
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/secured-database.png" alt="Individual Secured Database">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/secured-database.png" alt="Individual Secured Database">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -969,7 +969,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/store-control.png" alt="Inventory & Store Control">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/store-control.png" alt="Inventory & Store Control">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -977,7 +977,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/statistics.png" alt="Customized Reports With Statistics">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/statistics.png" alt="Customized Reports With Statistics">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -985,7 +985,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/activities.png" alt="Minimization Of Redundant Activities">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/activities.png" alt="Minimization Of Redundant Activities">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -993,7 +993,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/parameters.png" alt="Instant View Of MIS Report On Different Parameters">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/parameters.png" alt="Instant View Of MIS Report On Different Parameters">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -1006,7 +1006,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
 
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/administrative.png" alt="Single Point Of Integration & Control From Academics To Administrative.">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/administrative.png" alt="Single Point Of Integration & Control From Academics To Administrative.">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -1014,7 +1014,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/generate-student.png" alt="Generate Student Reports">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/generate-student.png" alt="Generate Student Reports">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -1022,7 +1022,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/vital-information.png" alt="Access To Vital Information">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/vital-information.png" alt="Access To Vital Information">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -1030,7 +1030,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/planning.png" alt="Easy Handling To Class Schedules, Time Table And Question Paper Planning.">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/planning.png" alt="Easy Handling To Class Schedules, Time Table And Question Paper Planning.">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -1038,7 +1038,7 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
                             </div>
                             <div class="col-xs-6  col-sm-6">
                                 <div class="img-center">
-                                    <img class="img-fluid " src="img/choose/many-more.png" alt="And Many More">
+                                    <img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/many-more.png" alt="And Many More">
                                 </div>
                                 <div class="img-des">&nbsp;</div>
 
@@ -1389,31 +1389,31 @@ And for helping Educational Institutions stay ahead in the race and achieve cust
 				<div class="row text-center py-4">
 					<div class="col-md-25-p">
 						<div class="img-center">
-							<img class="img-fluid " src="img/choose/industry-money.png" alt="Most competent pricing in the industry">
+							<img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/industry-money.png" alt="Most competent pricing in the industry">
 						</div>
 						<h5 class="font-weight-bold mt-3">Most competent pricing in the industry </h5>
 					</div>
 					<div class="col-md-25-p">
 						<div class="img-center">
-							<img class="img-fluid " src="img/choose/quick-return.png" alt="Quick return on investment">
+							<img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/quick-return.png" alt="Quick return on investment">
 						</div>
 						<h5 class="font-weight-bold mt-3">Quick return on investment</h5>
 					</div>
 					<div class="col-md-25-p">
 						<div class="img-center">
-							<img class="img-fluid " src="img/choose/pay-only.png" alt="Pay only for what you use">
+							<img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/pay-only.png" alt="Pay only for what you use">
 						</div>
 						<h5 class="font-weight-bold mt-3">Pay only for what you use</h5>
 					</div>
 					<div class="col-md-25-p">
 						<div class="img-center">
-							<img class="img-fluid " src="img/choose/amc.png" alt="No forced AMC">
+							<img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/amc.png" alt="No forced AMC">
 						</div>
 						<h5 class="font-weight-bold mt-3">No forced AMC </h5>
 					</div>
 					<div class="col-md-25-p">
 						<div class="img-center">
-							<img class="img-fluid " src="img/choose/subscriptions.png" alt="Easy subscriptions for cloud products ">
+							<img class="img-fluid " src="<?php echo base_url(); ?>assets/vendor/img/choose/subscriptions.png" alt="Easy subscriptions for cloud products ">
 						</div>
 						<h5 class="font-weight-bold mt-3">Easy subscriptions for cloud products </h5>
 					</div>
