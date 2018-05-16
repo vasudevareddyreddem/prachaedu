@@ -22,6 +22,13 @@ class Admin extends CI_Controller {
 		$this->load->view('html/footer');
 		
 	}
+	public function login()
+	{	
+		$this->load->view('html/header');
+		$this->load->view('html/login');
+		$this->load->view('html/footer');
+		
+	}
 	
 	public function emps(){
 		
